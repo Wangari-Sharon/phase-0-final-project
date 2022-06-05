@@ -1,0 +1,24 @@
+.name {
+    text-align: center;
+    font-style: oblique;
+    margin: 0%;
+    padding: 30px;
+    background: rgba(255, 0, 255, 0.219);
+    color: rgb(102, 51, 153);
+}
+main {
+    padding: 26px;
+    font-size: 20px;
+}
+
+#body {
+    text-align: center;
+    display: block;
+    font-size: 20px;
+}
+
+.footer {
+    text-align: center;
+    background-color: rgba(255, 0, 255, 0.219);
+  
+}

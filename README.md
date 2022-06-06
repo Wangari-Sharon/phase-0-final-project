@@ -1,21 +1,33 @@
-Project:My Potfolio.
+## Project:My Potfolio.
 
-Author Name.
-Sharon Wangari.
+## Author Name.
 
-Project Description.
-Creating my portfolio.
+### Sharon Wangari.
 
-Project setup.
-Run my code using Visual Studio Code text editor.
-Create .html, .css, .js folders.
-Deploy project to github pages.
+## Project Description.
 
-Github Link.
-https://wangari-sharon.github.io/phase-0-final-project/
+### Creating my portfolio.
 
-Technologies used.
-HTML, CSS, JAVASCRIPT
+## Project setup.
 
-License
-MIT
+### Run my code using Visual Studio Code text editor.
+
+### Create .html, .css, .js folders.
+
+### Deploy project to github pages.
+
+## Github Link.
+
+### https://wangari-sharon.github.io/phase-0-final-project/
+
+## Technologies used.
+
+### HTML, CSS, JAVASCRIPT
+
+## Contact  Information
+
+### Reach out to me via y personal e-mail wanagrik35@gmail.com
+
+## License
+
+### MIT

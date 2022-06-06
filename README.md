@@ -1,4 +1,4 @@
-## Project:My Potfolio.
+## Project:My Portfolio.
 
 ## Author Name.
 
